@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+site_template
+*.xml
+venv/*
+*.zip
+*.idea
+*.DS_Store
+*.tfstate*
+*.terraform
