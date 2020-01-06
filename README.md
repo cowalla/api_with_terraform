@@ -20,14 +20,6 @@ For an easier install I like to move the Terraform executable to `/usr/local/bin
 Terraform v0.12.18
 ```
 
-### setting up your Python3 environment
-
-create a python3 virtualenv and install requirements:
-
- - virtualenv --python=python3 venv
- - source venv/bin/activate
- - pip3 install -r requirements.txt
-
 ## Use
 ### package your lambda
 Package your new lambda into a build.zip file,
